@@ -9,6 +9,3 @@ const modulos = [
     { id: 6, name: "NFSe", valor: 155.15 },
     { id: 7, name: "Estoque online", valor: 175.0 }
 ]
-
-modulos.push({id: 3})
-console.log(modulos)
